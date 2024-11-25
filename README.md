@@ -1,5 +1,7 @@
 # AutoML Pipeline with AutoVIML
 
+Youtube link : https://www.youtube.com/watch?v=HPOVEXE06FU 
+
 ## Project Overview
 This project builds a regression model to predict Airbnb listing prices using an automated machine learning (AutoML) approach powered by AutoVIML. The pipeline covers data preprocessing, model training, evaluation, and deployment readiness.
 ---
